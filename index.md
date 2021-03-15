@@ -1,2 +1,2 @@
-## Welcome to GitHub Pages
-This page is under development
+## Welcome 
+I'm senior physics student at Middle East Technical University.
