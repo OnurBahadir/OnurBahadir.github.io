@@ -1,2 +1,2 @@
 ## Welcome 
-I'm senior physics student at Middle East Technical University.
+I'm a senior physics student at Middle East Technical University.
